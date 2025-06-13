@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/home/akobir/snap/flutter/common/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/akobir/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/akobir/Downloads/AmirSaidbek Murodov-chat_app/chat_app/android/app/.cxx/Debug/4t6c5d3p/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/akobir/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/akobir/Downloads/AmirSaidbek Murodov-chat_app/chat_app/android/app/.cxx/Debug/4t6c5d3p/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
